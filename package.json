@@ -1,0 +1,16 @@
+{
+  "name": "18-practicanode",
+  "version": "1.0.0",
+  "description": "primeros pasos con nodeJS",
+  "keywords": [
+    "node",
+    "modules"
+  ],
+  "license": "MIT",
+  "author": "Arias Emilse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs"
+}
